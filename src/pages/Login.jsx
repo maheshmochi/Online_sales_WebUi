@@ -107,7 +107,7 @@ export default function Login() {
           <a className="link" href="#">Conditions of Use</a> and{" "}
           <a className="link" href="#">Privacy Notice</a>.
         </p>
-        
+
         {/* 🔙 Back Button */}
         <button
           className="back-btn"
@@ -117,7 +117,7 @@ export default function Login() {
           ← Back
         </button>
       </div>
-      
+
     </div>
   );
 }
